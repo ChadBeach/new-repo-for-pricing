@@ -1,0 +1,395 @@
+.navbar {
+  margin: 10px 10px 0px 10px;
+}
+
+.container {
+  max-width: 875px;
+  min-width: 0px;
+}
+
+.img {
+  height: 300px;
+  width: 950px;
+}
+
+h2 {
+    position: absolute;
+    top: 50px;
+    left: 325px;
+    color: white;
+    font-size: 40px
+
+  }
+
+.box {
+  position: relative;
+  width: 250px;
+  height: 140px;
+  float: right;
+  margin: 10px;
+  margin-bottom: 0px;
+
+}
+
+
+.green {
+  position: relative;
+  background-color: black;
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+}
+
+
+.purple {
+  position: relative;
+  background-color: purple;
+ border-style: solid;
+  border-color: black;
+  border-width: 1px;
+}
+
+.black {
+  margin-top: -142px;
+  position: relative;
+  background-color: green;
+ border-style: solid;
+  border-color: black;
+  border-width: 1px;
+}
+
+h3 {
+  position: absolute;
+  top: 350px;
+  left: 100px;
+  margin-left: 50px;
+}
+
+.personal {
+  font-size: 13px;
+  margin-left: 20px;
+  color: white;
+}
+
+.price {
+  font-size: 60px;
+  margin-left: 20px;
+  color: white;
+}
+
+.month {
+font-size: 13px;
+margin-left: 15px;
+color: lightgrey;
+}
+
+h3 {
+  position: absolute;
+  top: 350px;
+  left: 100px;
+  margin-left: 50px;
+}
+
+.personal1 {
+  font-size: 13px;
+  margin-left: 290px;
+  color: white;
+}
+
+.price1 {
+  font-size: 60px;
+  margin-left: 285px;
+  color: white;
+}
+
+.month1 {
+font-size: 13px;
+margin-left: 285px;
+color: lightgrey;
+}
+
+.boxes {
+  width: 250px;
+    height: 240px;
+  float: right;
+  margin: 10px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+ }
+
+ h3 {
+   position: absolute;
+   top: 350px;
+   left: 100px;
+   margin-left: 50px;
+ }
+
+ .personal2 {
+   font-size: 13px;
+   margin-left: 570px;
+   color: white;
+ }
+
+ .price2 {
+   font-size: 60px;
+   margin-left: 555px;
+   color: white;
+ }
+
+ .month2 {
+ font-size: 13px;
+ margin-left: 560px;
+ color: lightgrey;
+ }
+
+ .boxes {
+   width: 250px;
+     height: 240px;
+   float: right;
+   margin: 10px;
+   margin-top: 0px;
+   margin-bottom: 0px;
+
+  }
+
+
+
+.lightgrey {
+  background-color: lightgrey;
+   border-style: solid;
+  border-color: black;
+  border-width: 1px;
+}
+
+.lightgrey1 {
+  background-color: lightgrey;
+   border-style: solid;
+  border-color: black;
+  border-width: 1px;
+}
+
+.lightgrey2 {
+  margin-top: -242px;
+  background-color: lightgrey;
+   border-style: solid;
+  border-color: black;
+  border-width: 1px;
+}
+
+h4 {
+  position: absolute;
+  font-size: 12px;
+  top: 350px;
+}
+
+.setup {
+  border-top: 10px;
+  margin-top: 125px;
+  margin-left: 165px;
+  color: black;
+}
+
+.sub-domain {
+  margin-left: 140px;
+  margin-top: 20px;
+  color: black;
+  padding-bottom: 10px;
+}
+
+.support {
+  margin-left: 120px;
+  margin-top: 20px;
+  color: black;
+  padding-bottom: 10px;
+}
+
+.storage {
+  margin-left: 145px;
+  color: black;
+  margin-top: 20px;
+  padding-bottom: 10px;
+}
+
+.data {
+  margin-left: 160px;
+  margin-top: 20px;
+  color: black;
+  padding-bottom: 10px;
+}
+
+.band {
+  margin-left: 135px;
+  margin-top: 10px;
+  color: black;
+  padding-bottom: 10px;
+}
+
+.setup1 {
+  margin-top: 125px;
+  margin-left: 440px;
+  color: black;
+  padding-bottom: 10px;
+}
+
+.sub-domain1 {
+  margin-left: 420px;
+  margin-top: 20px;
+  color: black;
+  padding-bottom: 10px;
+}
+
+.support1 {
+  margin-left: 400px;
+  margin-top: 20px;
+  color: black;
+  padding-bottom: 10px;
+}
+
+.storage1 {
+  margin-left: 425px;
+  color: black;
+  margin-top: 20px;
+  padding-bottom: 10px;
+}
+
+.data1 {
+  margin-left: 440px;
+  margin-top: 20px;
+  color: black;
+  padding-bottom: 10px;
+}
+
+.band1 {
+  margin-left: 415px;
+  margin-top: 10px;
+  color: black;
+  padding-bottom: 10px;
+}
+
+.setup2 {
+  margin-top: 125px;
+  margin-left: 710px;
+  color: black;
+  padding-bottom: 10px;
+}
+
+.sub-domain2 {
+  margin-left: 690px;
+  margin-top: 20px;
+  color: black;
+  padding-bottom: 10px;
+}
+
+.support2 {
+  margin-left: 670px;
+  margin-top: 20px;
+  color: black;
+  padding-bottom: 10px;
+}
+
+.storage2 {
+  margin-left: 685px;
+  color: black;
+  margin-top: 20px;
+  padding-bottom: 10px;
+}
+
+.data2 {
+  margin-left: 710px;
+  margin-top: 20px;
+  color: black;
+  padding-bottom: 10px;
+}
+
+.band2 {
+  margin-left: 690px;
+  margin-top: 10px;
+  color: black;
+  padding-bottom: 10px;
+}
+
+.whitebox {
+  width: 250px;
+  height: 50px;
+  float: right;
+  margin: 10px;
+  margin-top: 0px;
+}
+
+
+.white {
+  background-color: white;
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+}
+
+.white1 {
+  background-color: white;
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+}
+
+.white2 {
+  margin-top: -62px;
+  background-color: white;
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+}
+
+h5 {
+  margin-left: 120px;
+}
+
+.choose {
+  padding: 2px;
+  position: absolute;
+  margin-top: 390px;
+  margin-left: 600px;
+  margin-right: 230px;
+  border-radius: 10px;
+  border: 1px solid black;
+}
+
+.choose1 {
+  padding: 2px;
+  position: absolute;
+  margin-top: 390px;
+  margin-left: 45px;
+  margin-right: 230px;
+  border-radius: 10px;
+  border: 1px solid black;
+}
+
+.choose2 {
+  padding: 2px;
+  margin-top: 390px;
+  margin-left: 325px;
+  position: absolute;
+  border-radius: 10px;
+  border: 1px solid black;
+}
+
+p {
+  float: right;
+  padding: 10px;
+  margin: 10px;
+}
+
+.fbox {
+    margin-top: 850px;
+    margin-left: 200px;
+    height: 50px;
+    width: 550px;
+    background-color: black;
+}
+
+h6 {
+  font-size: 12px;
+  position: absolute;
+  color: white;
+  margin-top: -30px;
+  margin-left: 270px;
+}
